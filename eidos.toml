@@ -1,0 +1,7 @@
+name = "firmware-update"
+version = "0.1.0"
+description = "Firmware-update gate"
+author = "Montana Labs <info@montanalabs.ai>"
+license = "Apache-2.0"
+
+[dependencies]
