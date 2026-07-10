@@ -28,8 +28,8 @@ never compiles to a runnable agent.
 
 ## Files
 
-- `firmware-update_safe.os` — the correct design.
-- `firmware-update_unsafe.os` — the tempting-but-wrong version (the negative example a model must learn to reject).
+- `firmware-update_safe.wave` — the correct design.
+- `firmware-update_unsafe.wave` — the tempting-but-wrong version (the negative example a model must learn to reject).
 - `ondos.toml` — the project manifest (each app is a self-contained Ondos project).
 
 ---
